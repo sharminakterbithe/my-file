@@ -1,0 +1,70 @@
+body {
+    background-image: linear-gradient(to right,yellow,white);
+    
+}
+header {
+    color: rgb(11, 11, 11);
+    width: 100%;
+    font-size: 2em;
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+h3 {
+    color: rgb(12, 12, 12);
+    width: 60%;
+    font-size: 1cm;
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+
+
+.photo img {
+    width: 700px;
+    height: 400px;
+    box-shadow: 4px 6px 3px grey;
+    border-radius: 20px;
+    border: 4px solid rgb(12, 13, 13);
+    
+}
+.photo2 img {
+    width: 450px;
+    height: 400px;
+    box-shadow: 4px 6px 3px grey;
+    border-radius: 20px;
+    border: 4px solid rgb(19, 19, 19);
+    
+}
+
+
+.intro p {
+    border: 2px solid rgb(244, 235, 241);
+    background-color: yellowgreen;
+    box-shadow: 4px 6px 3px rgb(206, 213, 108);
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(16, 16, 16);
+    
+}
+
+.more p {
+    border: 2px solid rgb(12, 12, 12);
+    background-color:black;
+    box-shadow: 4px 6px 3px grey;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color:whitesmoke;
+    
+}
